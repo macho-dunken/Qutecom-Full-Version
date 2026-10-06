@@ -241,4 +241,4 @@ This repository serves as the official landing page for QuteCom. The software is
 **Get the most recent version of QuteCom today!**
 
 ---
-**Last updated:** 2026-10-06 14:51:22 UTC
+**Last updated:** 2026-10-06 20:02:58 UTC
